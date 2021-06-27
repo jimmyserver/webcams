@@ -19,3 +19,7 @@ https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.nsitdh2.fd0.sm1.
 https://usw01-smr05-relay.ozolio.com/hls-live/relay01.xqyudd1.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Smokin’ Tuna Saloon Stage Cam
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wpdudo0.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w1847788175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Green Parrot Bar Cam
+https://55507e0501d25.streamlock.net/live/greenparrot1-audio.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Green Parrot Stage Cam
+https://55507e0501d25.streamlock.net/live/greenparrot2.stream/playlist.m3u8
