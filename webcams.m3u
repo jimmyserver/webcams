@@ -23,3 +23,7 @@ https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wpdudo0.fd0.sm1.
 https://55507e0501d25.streamlock.net/live/greenparrot1-audio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Green Parrot Stage Cam
 https://55507e0501d25.streamlock.net/live/greenparrot2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Los Angeles Hollywood Boulevard
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/lacitytours1/2017/11/29/1300.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",New Orleans Bourbon Street
+https://videos-3.earthcam.com/fecnetwork/4282.flv/chunklist_w1180854323.m3u8
