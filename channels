@@ -1,1 +1,35 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Sloppy Joes Stage Cam
+https://use01-smr03-relay.ozolio.com/hls-live/relay01.xnbwdi1.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Sloppy Joes Bar Cam
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.ehyzdpo.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w872910226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Sloppy Joes Crowd Cam
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w775301904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Sloppy Joes Crowd Cam 2
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.vtcldi6.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w964999907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Irish Kevins Stage Cam
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.fahmdnv.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w488258080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Hogs Breath Bar Cam
+https://55507e0501d25.streamlock.net/live-audio/hogsbreath2-audio.stream/chunklist_w1242412366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Hogs Breath Stage Cam
+https://55507e0501d25.streamlock.net/live-audio/smil:hogsbreath3.smil/chunklist_w1335245571_b850000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Maiami Ocean Drive
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.nsitdh2.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w1612787778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Maiami Linkoln Road
+https://usw01-smr05-relay.ozolio.com/hls-live/relay01.xqyudd1.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Smokin’ Tuna Saloon Stage Cam
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wpdudo0.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w1847788175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Green Parrot Bar Cam
+https://55507e0501d25.streamlock.net/live/greenparrot1-audio.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Green Parrot Stage Cam
+https://55507e0501d25.streamlock.net/live/greenparrot2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Los Angeles Hollywood Boulevard
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/lacitytours1/2017/11/29/1300.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",New Orleans Cats Meow Balcony
+https://videos-3.earthcam.com/fecnetwork/4282.flv/chunklist_w1180854323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",New Orleans Bourbon Street
+https://videos-3.earthcam.com/fecnetwork/4280.flv/chunklist_w184001571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Times Square Street Cam
+https://videos-3.earthcam.com/fecnetwork/9974.flv/chunklist_w538360189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Ireland Dublin Temple Bar
+https://videos-3.earthcam.com/fecnetwork/4054.flv/chunklist_w943674269.m3u8
